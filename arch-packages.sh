@@ -5,4 +5,5 @@ ttf-linux-libertine ttf-sazanami ttf-joypixels unicode-emoji\
 rxvt-unicode w3m sxiv\
 jre-openjdk jdk-openjdk\
 firefox man htop ffmpeg mpv imagemagick neofetch acpi\
-lightdm lightdm-gtk-greeter tk python-pip cups
+lightdm lightdm-gtk-greeter tk python-pip cups\
+bspwm sxhkd qutebrowser
